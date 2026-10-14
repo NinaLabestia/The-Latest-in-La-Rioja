@@ -1,6 +1,6 @@
 {
-  "name": "Z-Day: Último Superviviente",
-  "short_name": "Z-Day",
+  "name": "The Latest in La Rioja",
+  "short_name": "TLR",
   "start_url": "./index.html",
   "scope": "./",
   "display": "fullscreen",
