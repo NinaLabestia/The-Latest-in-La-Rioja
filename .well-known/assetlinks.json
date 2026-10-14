@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ninalabestia.twa",
+        "sha256_cert_fingerprints": ["88:39:E3:59:9A:D3:81:25:39:4A:5E:00:49:43:A7:A8:BD:5E:8F:15:86:E3:12:F1:A1:3B:14:C0:34:50:C6:E0"]
+      }
+    }]
