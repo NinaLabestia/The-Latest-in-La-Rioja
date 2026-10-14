@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.ninalabestia.twa",
-        "sha256_cert_fingerprints": ["88:39:E3:59:9A:D3:81:25:39:4A:5E:00:49:43:A7:A8:BD:5E:8F:15:86:E3:12:F1:A1:3B:14:C0:34:50:C6:E0"]
+        "package_name": "com.nina.thelatestinlarioja",
+        "sha256_cert_fingerprints": ["C6:D0:1A:13:18:FC:D6:93:2E:1B:F9:8C:87:22:CF:FC:B8:16:27:4E:0B:02:68:33:74:5E:FF:6F:94:32:9E:E6"]
       }
     }]
